@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  bus_number: MyString
+  bus_key: MyString
+  driver_name: MyString
+  conductor_name: MyString
+  license_plate: MyString
+
+two:
+  bus_number: MyString
+  bus_key: MyString
+  driver_name: MyString
+  conductor_name: MyString
+  license_plate: MyString

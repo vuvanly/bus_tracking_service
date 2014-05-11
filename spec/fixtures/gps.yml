@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  long: 1.5
+  lat: 1.5
+  bus_id: 1
+
+two:
+  long: 1.5
+  lat: 1.5
+  bus_id: 1
